@@ -1,4 +1,4 @@
-__author__ = 'electop.yoo@samsung.com'
+__author__ = 'electopx@gmail.com'
 
 import sys
 import datetime
