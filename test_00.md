@@ -1,5 +1,6 @@
 These scopes are incompatible with AAR
          (Android ARchive) packages and will cause a build with AAR packages to fail.
+#3695dd #e7f5fd
 ```code
 "settings": [
   {
